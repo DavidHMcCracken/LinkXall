@@ -1,4 +1,4 @@
-                          PERSONAL KNOWLEDGE BASE
+                              PERSONAL KNOWLEDGE BASE
 Although we often think of knowledge creators as technical specialists, 
 everyone creates knowledge, for example a personal address book,  a list of 
 sellers with whom you have had good or bad experience, a personal medical 
@@ -7,8 +7,8 @@ emails. Technical disciplines demand organized documentation but it usually is
 produced after most of the creative effort is done and there is no organized 
 explanation for why things were done one way instead of another. This is 
 especially a problem in multidisciplinary efforts, whose final documentation 
-often is in the form of discipline-specific silos with no reference to other 
-areas that actually explain why something had to be done a certain way. 
+often is in the form of discipline-specific "silos" with no reference to other 
+areas that actually explain why something had to be done a certain way.
 
 The most extensive knowledge base in the World is the World Wide Web, where 
 hyperlinks enable connections without content duplication. This does not 
@@ -28,19 +28,20 @@ hyperlinks and moving hyperlinked topics, simplifying maintaining a dynamic
 knowledge base. It provides superior hyperlinking to other files, supporting 
 not only relative and absolute paths but also locations defined by environment 
 variables, simplifying rearranging a complex knowledge base and sharing it 
-between incompatible systems. 
+between incompatible systems.  
 
 All programs that support hyperlinking have Back and Forward functions to 
 revisit recently visited hyperlink targets. LinkXall has a smart version of 
 this capability. It records both the hyperlink and its target in its link 
 points history and it doesn't duplicate any point. It also allows the reader to 
 set a "pinpoint" for subsequently revisiting a point that is not a hyperlink.
- 
+
 LinkXall uses its own fundamental functions to support a hierarchical document 
 framework, which includes bidirectional linking between table of contents and 
-topics. It simplifies managing this by automating topic rename and level, with 
-both local hyperlinks and those from other files automatically updated.
- 
+topics. It simplifies managing this by automating topic rename and move 
+(including level change) with both local hyperlinks and those from other files 
+automatically updated.
+
 Hyperlinks usually target a bookmark. LinkXall automates creating a variety of 
 visible and invisible bookmarks and uniquely supports hideable bookmarks. It 
 assists the document creator in finding bookmarks by name or perusing them by 
@@ -66,7 +67,7 @@ embedded in the document with help from OS-specific scripts in the archive,
 automatically install and configure as much of the total package as you want. 
 For example, you can choose whether to install support for Emacs and source 
 code and project management files for working on LinkXall itself.
- 
+
 LxaInstall.odt not only installs LinkXall but can completely remove it with no 
 lingering effects. Consequently, you can install it just to see what it is 
 like, but you might first want to study it in more detail. The doc folder in 
